@@ -1,0 +1,33 @@
+.task-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .task-container li {
+    width: 40vh; 
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center; 
+    padding: 0 5px; 
+  }
+  
+  .checkbox-input {
+    margin-right: 5px; 
+  }
+  
+  .button-delete {
+    margin-left: auto;
+    border: none;
+    width: 15px; 
+    height: 15px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    font-size: 15px; 
+    background-color: rgb(225, 222, 222)
+  }
+
+  
+  

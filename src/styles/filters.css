@@ -1,0 +1,16 @@
+.button-container {
+    width: 40vh;
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+  .button-container button {
+    background-color: transparent; 
+    border: none;
+    cursor: pointer; 
+  }
+  
+  .selected {
+    color: blue; 
+  }
+  
